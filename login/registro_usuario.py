@@ -20,7 +20,7 @@ class RegistroUsuarios:
             self.Nombre_usuario = str(input("Ingresa el nombre de usuario: ")).strip()
             self.Apellido_usuario = str(input("Ingresa el apellido de tu usuario: ")).strip()
             self.Email_user = str(input("Ingresa tu correo electronico: ")).strip()
-            self.Password_user = str(input("Ingresa una contraseña (6 caracteres): ")).strip()
+            self.Password_user = str(input("Ingresa una contraseña (6 caracteres max): ")).strip()
             
             verificador_email = r"[a-zA-Z-0-9]+@[a-zA-Z]+\.[a-z-.]+$"
             verifcador_password =  r"^[a-zA-Z0-9@#$%^&+=]{6,}$"
