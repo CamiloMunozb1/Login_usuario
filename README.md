@@ -36,7 +36,9 @@ Para comenzar con el proyecto, sigue estos pasos:
 ## USO
 
 1. Configura la base de datos: Asegúrate de que el archivo de base de datos registros_usuarios.db esté en la ruta correcta o crea uno nuevo utilizando SQLite.
+   
 2. Ejecuta el programa: Ejecuta el archivo principal index.py para iniciar el sistema de login y registro.
+   
 3. El programa te permitirá elegir entre las siguientes opciones:
      -Crear una cuenta: Se te pedirá que ingreses el nombre de usuario, apellido, correo electrónico y una contraseña.
      -Iniciar sesión: Ingresarás tu correo electrónico y contraseña para acceder a tu cuenta.
