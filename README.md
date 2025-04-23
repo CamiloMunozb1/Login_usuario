@@ -45,7 +45,8 @@ Para comenzar con el proyecto, sigue estos pasos:
 ## Notas
 
   -Asegúrate de tener la base de datos SQLite correctamente configurada antes de ejecutar el programa.
-  -Este proyecto es un ejemplo básico y está diseñado para ser usado en un entorno de pruebas o local. No es adecuado para producción sin realizar ajustes adicionales en la seguridad y escalabilidad.
+  
+  -Este proyecto es un ejemplo básico y está diseñado para ser usado en un entorno de pruebas o local. No es adecuado para      producción sin realizar ajustes adicionales en la seguridad y escalabilidad.
 
 ## AUTOR
 
