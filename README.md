@@ -41,8 +41,11 @@ Para comenzar con el proyecto, sigue estos pasos:
 2.  Ejecuta el programa: Ejecuta el archivo principal index.py para iniciar el sistema de login y registro.
    
 3.  El programa te permitirá elegir entre las siguientes opciones:
+   
       -Crear una cuenta: Se te pedirá que ingreses el nombre de usuario, apellido, correo electrónico y una contraseña.
+    
       -Iniciar sesión: Ingresarás tu correo electrónico y contraseña para acceder a tu cuenta.
+    
       -Salir: Para terminar el programa.
 
 ## Notas
